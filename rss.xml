@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Chris Knights]]></title>
         <description><![CDATA[Chris Knights]]></description>
-        <link>http://www.chrisknights.com/</link>
+        <link>https://thegrid.ai/chris-knights/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 08 Feb 2016 10:22:09 GMT</lastBuildDate>
-        <atom:link href="http://www.chrisknights.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 08 Feb 2016 10:37:46 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/chris-knights/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d9a821dc-7c3f-4897-a550-b8398b4b5fc1.jpg">]]></description>
-            <link>http://www.chrisknights.com/58ad9112-9805-4c47-b5f9-c129e2ebbfe3/index.html</link>
+            <link>https://thegrid.ai/chris-knights/58ad9112-9805-4c47-b5f9-c129e2ebbfe3/index.html</link>
             <guid isPermaLink="false">58ad9112-9805-4c47-b5f9-c129e2ebbfe3</guid>
-            <pubDate>Mon, 08 Feb 2016 10:17:51 GMT</pubDate>
+            <pubDate>Mon, 08 Feb 2016 10:37:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
