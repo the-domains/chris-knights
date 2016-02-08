@@ -1,25 +1,25 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-08T10:47:36.307Z'
-dateModified: '2016-02-08T10:47:19.956Z'
+datePublished: '2016-02-08T10:49:29.868Z'
+dateModified: '2016-02-08T10:49:28.435Z'
 title: CONTACT ME
 author: []
+sourcePath: _posts/2016-02-08-contact-me.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-08-contact-me.md
-published: true
 url: contact-me/index.html
-_type: Article
+_type: WebPage
 
 ---
 # CONTACT ME
