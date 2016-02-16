@@ -1,6 +1,6 @@
 name: Chris Knights
 favicon: null
-layout_spectrum: 0.48523
+layout_spectrum: 1
 typography_spectrum: 0.64816
 title: Chris Knights
 cta:
@@ -23,7 +23,7 @@ color:
     - '#958c87'
     - '#5b5c60'
   brandStrength: 1
-  lightness: 0
+  lightness: 0.375
   saturation: 1
   rhythmicContrast: 0
 purpose: []
